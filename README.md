@@ -3,5 +3,5 @@ Repository for storing the business cases (i.e., projects) for the NOVA IMS mast
 
 # Business cases' description
 Business Case 1: Customer Segmentation <br>
-Business Case 2: Predicting Cancellations
+Business Case 2: Predicting Cancellations <br>
 Business Case 3: Recommandation System (ongoing)
